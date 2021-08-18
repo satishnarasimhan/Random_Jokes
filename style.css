@@ -1,0 +1,33 @@
+html, body {
+    /* Font specifics */
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: rgb(194, 183, 183);
+    /* Image specifics */
+    overflow-x: hidden;
+    overflow-y: hidden; 
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    /* Background specifics */
+    background-color: black;
+    /*background-image: url(images/sunset.JPG);*/
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+  
+p {
+    max-width: 30em;
+    color: rgb(194, 183, 183);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    letter-spacing:0.1em;
+    text-align:center;
+    margin: 40px auto;
+    text-transform: none;
+    line-height: 145%;
+    font-size: 2em;
+    font-variant:small-caps;
+  }
+  
